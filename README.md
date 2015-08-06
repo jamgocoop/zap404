@@ -15,7 +15,7 @@ This process can be useful after a site redesign, when URLs have changed or disa
 
 After the script runs periodically once a day for several days, the number of crawl errors stabilizes, and all errors left are the ones that have to be fixed manually by defining redirections or asking origin webmasters to change the referenced URL.
 
-See our [blog entry](http://blog.jamgo.coop/2015/08/06/clean-up-crawl…ebmaster-tools/) for details on the code and motivation for the program.
+See our [blog entry](http://blog.jamgo.coop/2015/08/06/clean-up-crawl-errors-automatically-in-google-webmaster-tools/) for details on the code and motivation for the program.
 
 ## Prerrequisites
 Ths program uses the Google Webmaster Tools API and the args4j library. Both are declared in the pom.xml file, so
